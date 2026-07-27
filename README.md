@@ -8,6 +8,8 @@
 
 **Publication:** A scientific publication based on the final research is planned upon completion of the thesis.
 
+# Galaxy Distance Classification using Machine Learning (Simulation)
+
 ---
 
 # Project Overview
@@ -15,7 +17,6 @@
 This repository contains the simulation code and research workflow for my undergraduate thesis. The project focuses on estimating **photometric redshift (photo-z)** using machine learning techniques and utilizing the estimated redshift to classify galaxies into distance-based categories.
 
 The ultimate objective of this research is to support astrophysical studies on galaxy evolution and cosmic epochs by providing an efficient alternative to spectroscopic observations.
-# Galaxy Distance Classification using Machine Learning (Simulation)
 
 ---
 
