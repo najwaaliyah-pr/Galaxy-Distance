@@ -114,5 +114,6 @@ The final research code, optimized model, and complete experimental results may 
 
 Created by **Najwa Aaliyah** Undergraduate Student Department of Physics IPB University
 
-**- Email**: [najwapriyatna@gmail.com]
-**- Linkedin:** [https://www.linkedin.com/in/najwapriyatna]
+- **Email**: [najwapriyatna@gmail.com]
+
+- **Linkedin:** [https://www.linkedin.com/in/najwapriyatna]
