@@ -1,0 +1,19 @@
+# Data Manipulation
+numpy
+pandas
+pyarrow
+
+# Astronomy
+astropy
+astroquery
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter
+notebook
+ipykernel
