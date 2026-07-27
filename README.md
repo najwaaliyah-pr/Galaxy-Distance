@@ -10,15 +10,11 @@
 
 # Galaxy Distance Classification using Machine Learning (Simulation)
 
----
-
 # Project Overview
 
 This repository contains the simulation code and research workflow for my undergraduate thesis. The project focuses on estimating **photometric redshift (photo-z)** using machine learning techniques and utilizing the estimated redshift to classify galaxies into distance-based categories.
 
 The ultimate objective of this research is to support astrophysical studies on galaxy evolution and cosmic epochs by providing an efficient alternative to spectroscopic observations.
-
----
 
 # Research Objectives
 
@@ -30,8 +26,6 @@ Estimate galaxy redshifts from photometric observations using machine learning m
 ### Galaxy Distance Classification
 Classify galaxies into distance categories based on the predicted photometric redshift.
 
----
-
 # Dataset
 
 The project utilizes data from:
@@ -42,8 +36,6 @@ The project utilizes data from:
 - eBOSS
 
 The simulation dataset contains galaxies with spectroscopic redshifts that serve as the ground truth for model development and evaluation.
-
----
 
 # Input Features
 
@@ -67,8 +59,6 @@ The current simulation utilizes several photometric and geometric features, incl
 - Galaxy shape parameters
 - Additional geometric descriptors
 
----
-
 # Data Preprocessing
 
 The simulation workflow includes:
@@ -82,8 +72,6 @@ The simulation workflow includes:
 - Dataset splitting
 - Model evaluation
 
----
-
 # Machine Learning Workflow
 
 The repository currently contains the experimental workflow for:
@@ -96,8 +84,6 @@ The repository currently contains the experimental workflow for:
 - Galaxy distance classification
 
 > **Note:** The final machine learning architecture has **not yet been finalized** and will be implemented in the official undergraduate thesis repository.
-
----
 
 # Tech Stack
 
@@ -116,8 +102,6 @@ The repository currently contains the experimental workflow for:
 - Jupyter Notebook
 - Google Colab
 
----
-
 # Repository Status
 
 This repository is intended as a **research simulation repository**.
@@ -125,8 +109,6 @@ This repository is intended as a **research simulation repository**.
 It documents the experimental process, model exploration, and workflow development carried out prior to the implementation of the final undergraduate thesis model.
 
 The final research code, optimized model, and complete experimental results may differ from the contents of this repository.
-
----
 
 # Citation / Author
 
