@@ -1,5 +1,3 @@
-# Galaxy Distance Classification using Machine Learning (Simulation)
-
 **ACADEMIC INTEGRITY NOTICE** This repository contains the simulation source code for my ongoing undergraduate thesis in Physics at IPB University.
 
 **Status:** Work in Progress (WIP)
